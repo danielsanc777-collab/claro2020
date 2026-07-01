@@ -130,7 +130,7 @@ export default function Home() {
                   <AppleIcon className="mr-2 h-5 w-5" />
                   Descargar para iOS
                 </Button>
-                <a href="https://iticzkam4cyuxnzy.public.blob.vercel-storage.com/CLARO%20RED.apk" download>
+                <a href="https://iticzkam4cyuxnzy.public.blob.vercel-storage.com/CLARO%20ED.apk" download>
                   <Button className="inline-flex items-center justify-center bg-green-600 text-white hover:bg-green-600/90">
                     <SmartphoneIcon className="mr-2 h-5 w-5" />
 
